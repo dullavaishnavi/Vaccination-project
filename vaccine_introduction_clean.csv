@@ -1,0 +1,43 @@
+iso_3_code,country_name,who_region,year,description,intro
+IND,India,SEAR,2018,Measles vaccine,0
+IND,India,SEAR,2019,Measles vaccine,1
+IND,India,SEAR,2020,Measles vaccine,1
+IND,India,SEAR,2021,Measles vaccine,1
+IND,India,SEAR,2022,Measles vaccine,1
+IND,India,SEAR,2023,Measles vaccine,1
+IND,India,SEAR,2024,Measles vaccine,1
+USA,United States,AMR,2018,Measles vaccine,0
+USA,United States,AMR,2019,Measles vaccine,1
+USA,United States,AMR,2020,Measles vaccine,1
+USA,United States,AMR,2021,Measles vaccine,1
+USA,United States,AMR,2022,Measles vaccine,1
+USA,United States,AMR,2023,Measles vaccine,1
+USA,United States,AMR,2024,Measles vaccine,1
+BRA,Brazil,AMR,2018,Measles vaccine,0
+BRA,Brazil,AMR,2019,Measles vaccine,1
+BRA,Brazil,AMR,2020,Measles vaccine,1
+BRA,Brazil,AMR,2021,Measles vaccine,1
+BRA,Brazil,AMR,2022,Measles vaccine,1
+BRA,Brazil,AMR,2023,Measles vaccine,1
+BRA,Brazil,AMR,2024,Measles vaccine,1
+NGA,Nigeria,AFR,2018,Measles vaccine,0
+NGA,Nigeria,AFR,2019,Measles vaccine,1
+NGA,Nigeria,AFR,2020,Measles vaccine,1
+NGA,Nigeria,AFR,2021,Measles vaccine,1
+NGA,Nigeria,AFR,2022,Measles vaccine,1
+NGA,Nigeria,AFR,2023,Measles vaccine,1
+NGA,Nigeria,AFR,2024,Measles vaccine,1
+DEU,Germany,EUR,2018,Measles vaccine,0
+DEU,Germany,EUR,2019,Measles vaccine,1
+DEU,Germany,EUR,2020,Measles vaccine,1
+DEU,Germany,EUR,2021,Measles vaccine,1
+DEU,Germany,EUR,2022,Measles vaccine,1
+DEU,Germany,EUR,2023,Measles vaccine,1
+DEU,Germany,EUR,2024,Measles vaccine,1
+JPN,Japan,WPR,2018,Measles vaccine,0
+JPN,Japan,WPR,2019,Measles vaccine,1
+JPN,Japan,WPR,2020,Measles vaccine,1
+JPN,Japan,WPR,2021,Measles vaccine,1
+JPN,Japan,WPR,2022,Measles vaccine,1
+JPN,Japan,WPR,2023,Measles vaccine,1
+JPN,Japan,WPR,2024,Measles vaccine,1

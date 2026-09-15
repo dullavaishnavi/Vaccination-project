@@ -1,0 +1,43 @@
+iso_3_code,country_name,who_region,year,vaccine_code,vaccine_description,schedule_rounds,target_pop_description,geoarea,age_administered,source_comment
+IND,India,SEAR,2018,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+IND,India,SEAR,2019,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+IND,India,SEAR,2020,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+IND,India,SEAR,2021,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+IND,India,SEAR,2022,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+IND,India,SEAR,2023,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+IND,India,SEAR,2024,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+USA,United States,AMR,2018,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+USA,United States,AMR,2019,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+USA,United States,AMR,2020,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+USA,United States,AMR,2021,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+USA,United States,AMR,2022,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+USA,United States,AMR,2023,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+USA,United States,AMR,2024,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+BRA,Brazil,AMR,2018,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+BRA,Brazil,AMR,2019,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+BRA,Brazil,AMR,2020,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+BRA,Brazil,AMR,2021,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+BRA,Brazil,AMR,2022,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+BRA,Brazil,AMR,2023,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+BRA,Brazil,AMR,2024,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+NGA,Nigeria,AFR,2018,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+NGA,Nigeria,AFR,2019,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+NGA,Nigeria,AFR,2020,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+NGA,Nigeria,AFR,2021,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+NGA,Nigeria,AFR,2022,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+NGA,Nigeria,AFR,2023,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+NGA,Nigeria,AFR,2024,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+DEU,Germany,EUR,2018,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+DEU,Germany,EUR,2019,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+DEU,Germany,EUR,2020,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+DEU,Germany,EUR,2021,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+DEU,Germany,EUR,2022,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+DEU,Germany,EUR,2023,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+DEU,Germany,EUR,2024,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+JPN,Japan,WPR,2018,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+JPN,Japan,WPR,2019,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+JPN,Japan,WPR,2020,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+JPN,Japan,WPR,2021,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+JPN,Japan,WPR,2022,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+JPN,Japan,WPR,2023,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo
+JPN,Japan,WPR,2024,MCV1,Measles-containing vaccine,1,Children,National,9 months,Demo

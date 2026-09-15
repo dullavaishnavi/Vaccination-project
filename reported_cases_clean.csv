@@ -1,0 +1,43 @@
+group,code,name,year,disease,disease_description,cases
+SEAR,IND,India,2018,MEAS,Measles,1259
+SEAR,IND,India,2019,MEAS,Measles,695
+SEAR,IND,India,2020,MEAS,Measles,1099
+SEAR,IND,India,2021,MEAS,Measles,789
+SEAR,IND,India,2022,MEAS,Measles,741
+SEAR,IND,India,2023,MEAS,Measles,686
+SEAR,IND,India,2024,MEAS,Measles,602
+AMR,USA,United States,2018,MEAS,Measles,1075
+AMR,USA,United States,2019,MEAS,Measles,1295
+AMR,USA,United States,2020,MEAS,Measles,956
+AMR,USA,United States,2021,MEAS,Measles,1009
+AMR,USA,United States,2022,MEAS,Measles,847
+AMR,USA,United States,2023,MEAS,Measles,427
+AMR,USA,United States,2024,MEAS,Measles,833
+AMR,BRA,Brazil,2018,MEAS,Measles,929
+AMR,BRA,Brazil,2019,MEAS,Measles,1280
+AMR,BRA,Brazil,2020,MEAS,Measles,746
+AMR,BRA,Brazil,2021,MEAS,Measles,756
+AMR,BRA,Brazil,2022,MEAS,Measles,835
+AMR,BRA,Brazil,2023,MEAS,Measles,677
+AMR,BRA,Brazil,2024,MEAS,Measles,620
+AFR,NGA,Nigeria,2018,MEAS,Measles,891
+AFR,NGA,Nigeria,2019,MEAS,Measles,1031
+AFR,NGA,Nigeria,2020,MEAS,Measles,1258
+AFR,NGA,Nigeria,2021,MEAS,Measles,758
+AFR,NGA,Nigeria,2022,MEAS,Measles,889
+AFR,NGA,Nigeria,2023,MEAS,Measles,794
+AFR,NGA,Nigeria,2024,MEAS,Measles,621
+EUR,DEU,Germany,2018,MEAS,Measles,894
+EUR,DEU,Germany,2019,MEAS,Measles,1078
+EUR,DEU,Germany,2020,MEAS,Measles,1052
+EUR,DEU,Germany,2021,MEAS,Measles,986
+EUR,DEU,Germany,2022,MEAS,Measles,827
+EUR,DEU,Germany,2023,MEAS,Measles,758
+EUR,DEU,Germany,2024,MEAS,Measles,767
+WPR,JPN,Japan,2018,MEAS,Measles,1233
+WPR,JPN,Japan,2019,MEAS,Measles,1138
+WPR,JPN,Japan,2020,MEAS,Measles,951
+WPR,JPN,Japan,2021,MEAS,Measles,707
+WPR,JPN,Japan,2022,MEAS,Measles,823
+WPR,JPN,Japan,2023,MEAS,Measles,639
+WPR,JPN,Japan,2024,MEAS,Measles,455

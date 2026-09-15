@@ -1,0 +1,43 @@
+group,code,name,year,antigen,description,coverage_category,coverage_category_description,target_population,doses,coverage
+SEAR,IND,India,2018,MCV1,Measles-containing vaccine,official,Official estimate,148185,91168,61.523585398772155
+SEAR,IND,India,2019,MCV1,Measles-containing vaccine,official,Official estimate,115831,79579,68.70282358195607
+SEAR,IND,India,2020,MCV1,Measles-containing vaccine,official,Official estimate,160362,98605,61.48910246568841
+SEAR,IND,India,2021,MCV1,Measles-containing vaccine,official,Official estimate,164170,118064,71.91599421247855
+SEAR,IND,India,2022,MCV1,Measles-containing vaccine,official,Official estimate,77382,62212,80.39698987431414
+SEAR,IND,India,2023,MCV1,Measles-containing vaccine,official,Official estimate,189014,161864,85.63620603484017
+SEAR,IND,India,2024,MCV1,Measles-containing vaccine,official,Official estimate,63820,50866,79.70353768558381
+AMR,USA,United States,2018,MCV1,Measles-containing vaccine,official,Official estimate,133187,85762,64.39225150653637
+AMR,USA,United States,2019,MCV1,Measles-containing vaccine,official,Official estimate,155078,97816,63.075688182273694
+AMR,USA,United States,2020,MCV1,Measles-containing vaccine,official,Official estimate,103178,69363,67.227352589656
+AMR,USA,United States,2021,MCV1,Measles-containing vaccine,official,Official estimate,104585,73459,70.23933224755885
+AMR,USA,United States,2022,MCV1,Measles-containing vaccine,official,Official estimate,120008,93682,78.06366305797994
+AMR,USA,United States,2023,MCV1,Measles-containing vaccine,official,Official estimate,104996,95240,90.70823800435231
+AMR,USA,United States,2024,MCV1,Measles-containing vaccine,official,Official estimate,195126,155966,79.93113635876061
+AMR,BRA,Brazil,2018,MCV1,Measles-containing vaccine,official,Official estimate,119441,78406,65.64486146360446
+AMR,BRA,Brazil,2019,MCV1,Measles-containing vaccine,official,Official estimate,69488,41607,59.877593921543806
+AMR,BRA,Brazil,2020,MCV1,Measles-containing vaccine,official,Official estimate,74103,53143,71.71627085601722
+AMR,BRA,Brazil,2021,MCV1,Measles-containing vaccine,official,Official estimate,174901,130678,74.71577134152598
+AMR,BRA,Brazil,2022,MCV1,Measles-containing vaccine,official,Official estimate,176253,135998,77.1608066153336
+AMR,BRA,Brazil,2023,MCV1,Measles-containing vaccine,official,Official estimate,108121,91207,84.35714388974095
+AMR,BRA,Brazil,2024,MCV1,Measles-containing vaccine,official,Official estimate,170734,149212,87.39456781535948
+AFR,NGA,Nigeria,2018,MCV1,Measles-containing vaccine,official,Official estimate,51104,32275,63.1564411291927
+AFR,NGA,Nigeria,2019,MCV1,Measles-containing vaccine,official,Official estimate,133347,83210,62.401643918213495
+AFR,NGA,Nigeria,2020,MCV1,Measles-containing vaccine,official,Official estimate,118837,79174,66.62428874386659
+AFR,NGA,Nigeria,2021,MCV1,Measles-containing vaccine,official,Official estimate,148164,100263,67.67084442153379
+AFR,NGA,Nigeria,2022,MCV1,Measles-containing vaccine,official,Official estimate,120664,89684,74.32557485007112
+AFR,NGA,Nigeria,2023,MCV1,Measles-containing vaccine,official,Official estimate,63584,52730,82.93111165679639
+AFR,NGA,Nigeria,2024,MCV1,Measles-containing vaccine,official,Official estimate,133881,110125,82.25637463875782
+EUR,DEU,Germany,2018,MCV1,Measles-containing vaccine,official,Official estimate,91482,58813,64.28987940628576
+EUR,DEU,Germany,2019,MCV1,Measles-containing vaccine,official,Official estimate,111279,64913,58.333563929982596
+EUR,DEU,Germany,2020,MCV1,Measles-containing vaccine,official,Official estimate,187647,132264,70.48580372026882
+EUR,DEU,Germany,2021,MCV1,Measles-containing vaccine,official,Official estimate,94039,65699,69.86373676831732
+EUR,DEU,Germany,2022,MCV1,Measles-containing vaccine,official,Official estimate,111377,88130,79.12795196983669
+EUR,DEU,Germany,2023,MCV1,Measles-containing vaccine,official,Official estimate,110958,85094,76.69037029466675
+EUR,DEU,Germany,2024,MCV1,Measles-containing vaccine,official,Official estimate,165732,136051,82.09131053000836
+WPR,JPN,Japan,2018,MCV1,Measles-containing vaccine,official,Official estimate,158353,91295,57.65298829898638
+WPR,JPN,Japan,2019,MCV1,Measles-containing vaccine,official,Official estimate,124599,82738,66.40373329452954
+WPR,JPN,Japan,2020,MCV1,Measles-containing vaccine,official,Official estimate,154448,104264,67.50757257745288
+WPR,JPN,Japan,2021,MCV1,Measles-containing vaccine,official,Official estimate,141079,101014,71.60140894546801
+WPR,JPN,Japan,2022,MCV1,Measles-containing vaccine,official,Official estimate,104271,72349,69.386501938228
+WPR,JPN,Japan,2023,MCV1,Measles-containing vaccine,official,Official estimate,124259,101890,81.99887113361719
+WPR,JPN,Japan,2024,MCV1,Measles-containing vaccine,official,Official estimate,154956,140229,90.49614148893033
